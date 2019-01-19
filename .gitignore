@@ -1,1 +1,6 @@
 /build/
+/.settings/
+/bin/
+/.gitignore
+/.classpath
+/.project
